@@ -1,2 +1,1 @@
-# next-slug-page
-next-slug-page
+## Test Next js
